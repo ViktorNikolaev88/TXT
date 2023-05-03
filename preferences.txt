@@ -1,0 +1,4 @@
+  favourite_film: Terminator_2
+  favourite_series LOST
+  favourite_food: potato
+  favourite_season: winter
